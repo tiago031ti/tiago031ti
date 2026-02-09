@@ -20,7 +20,7 @@
   </li>
   <li>email: tgcmendes80@gmail.com</li>
   <li>Linkedin:
-  <a href="www.linkedin.com/in/tiago-mendes-rocha-1bb208321/">Linkedin</a>
+  <a href="https://www.linkedin.com/in/tiago-mendes-rocha-1bb208321?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">Linkedin</a>
   </li>
 </ol>
 
