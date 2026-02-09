@@ -1,16 +1,27 @@
-## Hi there 👋
+## Olá! Sou o Tiago Mendes 👋
 
-<!--
-**tiago031ti/tiago031ti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>Apenas um estudante aprendendo programação.</p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ ## 💻 Ferramentas
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Tiago-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Tiago-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Tiago-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Tiago-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+</div>
+
+## Contatos
+<ol>
+  <li>Contato: 
+    <a href=https://w.app/mik1xs>WhatsApp</a> 
+  </li>
+  <li>email: tgcmendes80@gmail.com</li>
+  <li>Linkedin:
+  <a href="www.linkedin.com/in/tiago-mendes-rocha-1bb208321">Linkedin</a>
+  </li>
+</ol>
+
+
